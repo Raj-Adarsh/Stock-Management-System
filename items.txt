@@ -1,0 +1,10 @@
+arctic cpu casing	  9	1990
+asus monitor   	1	   7400
+barcode scanner 	7	 1990
+bays 	14	19900
+bluetooth headset	11	700
+bluetooth mobile keyboard 	1	 2000
+bus(IDE) 	12	 1000
+card 4-Port usb hub	1	280.0
+tea	98	500.0
+Potato	30	10.0
